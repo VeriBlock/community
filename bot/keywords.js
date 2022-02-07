@@ -75,6 +75,7 @@
         {
             "keys": ["api", "develop", "code"],
             "links": [
+                "https://wiki.veriblock.org/index.php/API",
                 "https://wiki.veriblock.org/index.php/Dashboard_API",
                 "https://wiki.veriblock.org/index.php/PoP_Miner_API",
                 "https://wiki.veriblock.org/index.php/NodeCore_HTTP_API",
